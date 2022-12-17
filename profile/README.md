@@ -7,3 +7,5 @@ To develop a platform that utilizes IoT technology and gamification techniques t
 ## Vision
 
 Our vision is to create a world where individuals are motivated and empowered to make healthy choices and live active, balanced lives. By leveraging the latest in IoT technology and gamification techniques, we aim to create a platform that is not only entertaining and engaging, but also effective in driving positive behavior change. We believe that by combining the power of technology and the science of behavior change, we can create a future where individuals are inspired to take control of their own health and well-being, leading to a happier and healthier society.
+
+** ASSIST by [chatGPT](https://chat.openai.com) **
