@@ -1,5 +1,11 @@
 # ELPH.WORKS - DRAFT STATEMENT - NOT APPROVED
 
+Electronic Linked Personal Health (ELPH)
+
+works.elph.core
+works.elph.docs
+works.elph.devices
+
 ## Goal
  
 To develop a platform that utilizes IoT technology and gamification techniques to encourage healthy behaviors and lifestyles. The platform will track and visualize health data in real-time, providing users with a fun and engaging way to monitor and improve their health.
